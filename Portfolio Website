@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ranjith Kumar - QA Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        .container { width: 80%; margin: auto; overflow: hidden; padding: 20px; }
+        header { background: url('https://source.unsplash.com/1600x900/?technology,software') no-repeat center center/cover; color: #fff; padding-top: 30px; text-align: center; padding-bottom: 30px; }
+        h1, h2 { color: #333; }
+        .project { background: #fff; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); }
+        .tools { font-weight: bold; color: #007BFF; }
+        .role { font-style: italic; color: #666; }
+        .link { font-weight: bold; color: #28a745; text-decoration: none; }
+        .link:hover { text-decoration: underline; }
+        footer { background: #333; color: #fff; text-align: center; padding: 10px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ranjith Kumar - QA Portfolio</h1>
+        <p>QA Automation Tester with 11+ years of experience in Software Testing.</p>
+    </header>
+    
+    <div class="container">
+        <h2>Projects</h2>
+        
+        <div class="project">
+            <h3>ANZ (Banking) - HCL Tech</h3>
+            <p class="role"><strong>Role:</strong> Test Lead</p>
+            <p>Ensuring secure financial transactions through comprehensive banking application testing.</p>
+            <p><strong>Responsibilities:</strong> Web & API testing, performance testing, security compliance validation, test automation.</p>
+            <p class="tools">Tools: Selenium, Java, TestNG, JMeter, Jenkins, Azure DevOps</p>
+            <p><a class="link" href="anz-banking.html">Project Link</a></p>
+        </div>
+        
+        <div class="project">
+            <h3>Hivedesk (USA Based Project) - Diya Systems</h3>
+            <p class="role"><strong>Role:</strong> Senior Software Engineer</p>
+            <p>Automated time tracking and project management testing.</p>
+            <p><strong>Responsibilities:</strong> Functional testing, cross-platform testing, regression testing, automation framework development.</p>
+            <p class="tools">Tools: Selenium, Java, Postman, Jenkins, Maven</p>
+            <p><a class="link" href="hivedesk.html">Project Link</a></p>
+        </div>
+        
+        <div class="project">
+            <h3>Stem Wizard (Science Fair Management)</h3>
+            <p class="role"><strong>Role:</strong> Senior Software Engineer</p>
+            <p>Automated testing for science fair event management.</p>
+            <p><strong>Responsibilities:</strong> UI automation, API validation, cross-browser testing, continuous integration setup.</p>
+            <p class="tools">Tools: Selenium, GIT, Docker, Jenkins, TestNG</p>
+            <p><a class="link" href="stem-wizard.html">Project Link</a></p>
+        </div>
+        
+        <div class="project">
+            <h3>Breville E-Commerce Platform</h3>
+            <p class="role"><strong>Role:</strong> Software Automation Test Engineer</p>
+            <p>Automated e-commerce functionalities and API testing.</p>
+            <p><strong>Responsibilities:</strong> Automation testing, AEM validation, performance testing, defect tracking.</p>
+            <p class="tools">Tools: Selenium, Java, AEM, Postman, Jira</p>
+            <p><a class="link" href="breville-ecommerce.html">Project Link</a></p>
+        </div>
+    </div>
+    
+    <footer>
+        <p>&copy; 2025 Ranjith Kumar. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
